@@ -29,3 +29,10 @@ docker container start determined_wing
 docker container logs determined_wing
 
 Sigh ... nope ... continues to run out of memory, even with a reduced batch size. 
+
+05_text-generation.ipynb
+Nope! Runs out of GPU ram ...
+
+06_summarization.ipynb
+Nope! Runs out of GPU ram ...
+
