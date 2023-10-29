@@ -36,3 +36,15 @@ Nope! Runs out of GPU ram ...
 06_summarization.ipynb
 Nope! Runs out of GPU ram ...
 
+### Saturday, October 28, 2023
+
+Trying 05_textgeneration.ipynb again in the newest huggingface transformers docker image which is running inside the container hfpt_Oct28.
+
+Hmm interesting ... it now runs! With the 2070 Super! Nice!
+
+Gonna also try the 06_summarization.ipynb again ... 
+
+I had to run 'pip install py7zr'
+
+1:49PM Wow ... so I renamed Data2/HuggingFace to Data2/HuggingFace_ then reran this notebook ... AND IT STILL RUNS! So where I thought the models were being saved to is wrong! ... Are they being saved into the container??
+
