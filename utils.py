@@ -25,7 +25,8 @@ def install_mpl_fonts():
 def set_plot_style():
     install_mpl_fonts()
     set_matplotlib_formats("pdf", "svg")
-    plt.style.use("plotting.mplstyle")
+    # plt.style.use("plotting.mplstyle")
+    plt.style.use("seaborn-v0_8")
     logging.getLogger("matplotlib").setLevel(level=logging.ERROR)
 
 

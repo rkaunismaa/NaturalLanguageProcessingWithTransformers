@@ -48,3 +48,7 @@ I had to run 'pip install py7zr'
 
 1:49PM Wow ... so I renamed Data2/HuggingFace to Data2/HuggingFace_ then reran this notebook ... AND IT STILL RUNS! So where I thought the models were being saved to is wrong! ... Are they being saved into the container??
 
+### Monday, October 31, 2023
+
+Installed the 4090, and now notebooks 05 and 06 run just fine. Nice!
+
