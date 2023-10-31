@@ -139,3 +139,12 @@ train.txt.3
 distilbert-base-uncased-finetuned-emotion/
 xlm-roberta-base-finetuned-panx-de/
 pegasus-samsum/
+
+# Monday, October 31, 2023
+xlm-roberta-base-finetuned-panx-all/
+xlm-roberta-base-finetuned-panx-de-fr/
+xlm-roberta-base-finetuned-panx-en/
+xlm-roberta-base-finetuned-panx-fr/
+xlm-roberta-base-finetuned-panx-it/
+
+
