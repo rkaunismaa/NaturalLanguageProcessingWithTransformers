@@ -1,5 +1,7 @@
 # NaturalLanguageProcessingWithTransformers
-Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra &amp; Thomas Wolf.
+
+[Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra, Thomas Wolf.](https://github.com/nlp-with-transformers/notebooks)
+
 
 Sunday, January 15, 2023
 
